@@ -4,7 +4,7 @@
 
 A UUID generator for [Godot Engine](https://godotengine.org/), with 1.295×10^50 combinations it'll work for any sized game, never having to worry about running out of unique IDs! Automatically stores new UUIDs and removes old ones.
 
-*NOTE: This is for Godot 4 only, and this repo is for C#, click here for the GDScript version!*
+*NOTE: This is for Godot 4 only, and this repo is for C#, click [here](https://github.com/Minoqi/minos-UUID-generator-for-godot) for the GDScript version!*
 
 ## Features
 
