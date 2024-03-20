@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://codu3cbs7ojqq"]
+
+[ext_resource type="Script" path="res://addons/minos_uuid_generator_csharp/exampleCSharp.cs" id="1_8hi3k"]
+
+[node name="csharpExample" type="Node2D" node_paths=PackedStringArray("uuidNode")]
+script = ExtResource("1_8hi3k")
+uuidNode = NodePath("")
