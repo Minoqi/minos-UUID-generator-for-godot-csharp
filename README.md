@@ -8,7 +8,7 @@ A UUID generator for [Godot Engine](https://godotengine.org/), with 1.295×10^50
 
 ## Features
 
-- Custom node (UUIDManager) that stores the UUID
+- Custom node (UUIDManagerCSharp) that stores the UUID
 - Automatically generates UUID when node is created
 - Automatically removes UUID when node is deleted
 - (Optional) debug messages to make sure UUIDs are always working
