@@ -20,7 +20,7 @@ Copy the `minos_uuid_generator_csharp` directory into your `res://addons/` direc
 
 ## Documentation
 - [Github Ver](Documentation/CSharpDocumentation.md)
-- [Website Ver] (https://minosuuidgenerator.carrd.co/#docs)
+- [Website Ver](https://minosuuidgenerator.carrd.co/#docs)
 
 ## Contributors
 
