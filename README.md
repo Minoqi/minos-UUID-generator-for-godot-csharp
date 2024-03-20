@@ -1,4 +1,4 @@
-<img src="Promotion/minosUUIDGeneratorForGodotCSharpIcon.svg" width="128" height="128">
+<img src="Promotion/minosUUIDGeneratorForGodotCsharpIcon.svg" width="128" height="128">
 
 # [Minos UUID Generator](https://minosuuidgenerator.carrd.co) for Godot C# Ver
 
